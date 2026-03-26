@@ -46,11 +46,3 @@ Fall = Sudden Drop + Fallen Posture
 
 ---
 
-## Author
-
-Thái
-
----
-
-Nếu muốn, mình có thể làm thêm **bản tiếng Việt cực ngắn gọn** nữa, chỉ tầm 10–12 dòng là xong, phù hợp để đưa trực tiếp lên GitHub.
-Bạn có muốn mình làm luôn không?
